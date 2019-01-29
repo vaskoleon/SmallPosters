@@ -1,0 +1,12 @@
+c:\users\vasko\source\repos\SmallPosters\SmallModels.Data\bin\Debug\netcoreapp2.2\SmallPosters.Data.deps.json
+c:\users\vasko\source\repos\SmallPosters\SmallModels.Data\bin\Debug\netcoreapp2.2\SmallPosters.Data.dll
+c:\users\vasko\source\repos\SmallPosters\SmallModels.Data\obj\Debug\netcoreapp2.2\SmallPosters.Data.csprojAssemblyReference.cache
+c:\users\vasko\source\repos\SmallPosters\SmallModels.Data\obj\Debug\netcoreapp2.2\SmallPosters.Data.csproj.CoreCompileInputs.cache
+c:\users\vasko\source\repos\SmallPosters\SmallModels.Data\obj\Debug\netcoreapp2.2\SmallPosters.Data.AssemblyInfoInputs.cache
+c:\users\vasko\source\repos\SmallPosters\SmallModels.Data\obj\Debug\netcoreapp2.2\SmallPosters.Data.AssemblyInfo.cs
+c:\users\vasko\source\repos\SmallPosters\SmallModels.Data\bin\Debug\netcoreapp2.2\SmallPosters.Data.pdb
+c:\users\vasko\source\repos\SmallPosters\SmallModels.Data\bin\Debug\netcoreapp2.2\SmallPosters.Models.dll
+c:\users\vasko\source\repos\SmallPosters\SmallModels.Data\bin\Debug\netcoreapp2.2\SmallPosters.Models.pdb
+c:\users\vasko\source\repos\SmallPosters\SmallModels.Data\obj\Debug\netcoreapp2.2\SmallPosters.Data.csproj.CopyComplete
+c:\users\vasko\source\repos\SmallPosters\SmallModels.Data\obj\Debug\netcoreapp2.2\SmallPosters.Data.dll
+c:\users\vasko\source\repos\SmallPosters\SmallModels.Data\obj\Debug\netcoreapp2.2\SmallPosters.Data.pdb

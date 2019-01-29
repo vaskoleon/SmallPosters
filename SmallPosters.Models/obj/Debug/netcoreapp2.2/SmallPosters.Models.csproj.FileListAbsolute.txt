@@ -1,0 +1,9 @@
+c:\users\vasko\source\repos\SmallPosters\SmallPosters.Models\bin\Debug\netcoreapp2.2\SmallPosters.Models.deps.json
+c:\users\vasko\source\repos\SmallPosters\SmallPosters.Models\bin\Debug\netcoreapp2.2\SmallPosters.Models.dll
+c:\users\vasko\source\repos\SmallPosters\SmallPosters.Models\bin\Debug\netcoreapp2.2\SmallPosters.Models.pdb
+c:\users\vasko\source\repos\SmallPosters\SmallPosters.Models\obj\Debug\netcoreapp2.2\SmallPosters.Models.csprojAssemblyReference.cache
+c:\users\vasko\source\repos\SmallPosters\SmallPosters.Models\obj\Debug\netcoreapp2.2\SmallPosters.Models.csproj.CoreCompileInputs.cache
+c:\users\vasko\source\repos\SmallPosters\SmallPosters.Models\obj\Debug\netcoreapp2.2\SmallPosters.Models.AssemblyInfoInputs.cache
+c:\users\vasko\source\repos\SmallPosters\SmallPosters.Models\obj\Debug\netcoreapp2.2\SmallPosters.Models.AssemblyInfo.cs
+c:\users\vasko\source\repos\SmallPosters\SmallPosters.Models\obj\Debug\netcoreapp2.2\SmallPosters.Models.dll
+c:\users\vasko\source\repos\SmallPosters\SmallPosters.Models\obj\Debug\netcoreapp2.2\SmallPosters.Models.pdb

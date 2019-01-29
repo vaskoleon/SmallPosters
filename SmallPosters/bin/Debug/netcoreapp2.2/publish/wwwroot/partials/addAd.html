@@ -1,0 +1,35 @@
+﻿<div style="margin-left:30%;margin-right:30%;">
+    <br />
+    <h1 class="info text-center">
+        Create Ad
+    </h1>
+    <br />
+    <form method="post" action="#/addAd">
+        <div class="form-group">
+            <label>Ad Title</label>
+            <input type="text" class="form-control" name="adtitle" placeholder="Enter ad title">
+        </div>
+        <div class="form-group">
+            <label>Ad Category</label>
+            <input type="text" class="form-control" name="adcategory" placeholder="Enter ad category">
+        </div>
+        <div class="form-group">
+            <label>Ad Content</label>
+            <textarea class="form-control" name="adcontent" placeholder="Enter ad content"></textarea>
+        </div>
+        <div class="form-group">
+            <label>Ad ImageURL</label>
+            <input type="text" class="form-control" name="adimageurl" placeholder="Enter ad ImageURL">
+        </div>
+        <div class="form-group">
+            <label>Ad Timeframe</label>
+            <br />
+            <select name="timeframe">
+                <option value="OneDay">One Day</option>
+                <option value="OneWeek">One Week</option>
+                <option value="OneMonth">One Month</option>
+            </select>
+        </div>
+        <input type="submit" class="btn btn-primary" value="Create Ad">
+    </form>
+</div>

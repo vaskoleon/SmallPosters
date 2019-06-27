@@ -18,6 +18,7 @@ namespace SmallPosters.Controllers
     {
         const string DefaultAdminUsername = "admin";
         const string DefaultAdminPassword = "adminPassword";
+        //Note: the above should be removed in production
         const int TokenSize = 10;
         private readonly SmallPostersContext _smallPostersContext;
         public UserController(SmallPostersContext smallPostersContext)
